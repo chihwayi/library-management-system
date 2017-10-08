@@ -381,7 +381,7 @@ Response
 * Ensure that Java 8 and Maven 3.2 are installed
 * Some of the documentation tools also required Node to be installed
 * Clone this repo:
-    `git clone https://github.com/mungali/SwaggerSpringBoot.git`
+    https://gitlab.com/mungali/springboot-rest-library-management-system
 
 ## Usage
 ### Running the Spring Boot app
